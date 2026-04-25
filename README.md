@@ -1,5 +1,3 @@
-# ChessAnalysis
-
 # Chess Games Data Analysis (Lichess EDA)
 
 An Exploratory Data Analysis (EDA) project investigating over 20,000 chess games played on Lichess. This project explores player ratings (ELO), opening popularity, and the different ways matches conclude to better understand chess trends.
