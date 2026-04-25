@@ -29,8 +29,8 @@ The following Python libraries were used for data manipulation and visualization
 - **Time Control:** **10+0 (Rapid)** was the most popular format with 6,817 plays.
 
 ## How to Run
-1. Ensure you have the dataset `games.csv` in your directory.
-   (download it from kaggle https://www.kaggle.com/datasets/datasnaek/chess
+1. Ensure you have the dataset `games.csv` in your directory.\n
+   (download it from kaggle https://www.kaggle.com/datasets/datasnaek/chess)
 3. Install dependencies:
    ```bash
    pip install pandas numpy matplotlib seaborn
