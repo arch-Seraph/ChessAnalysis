@@ -30,7 +30,8 @@ The following Python libraries were used for data manipulation and visualization
 
 ## How to Run
 1. Ensure you have the dataset `games.csv` in your directory.
-2. Install dependencies:
+   (download it from kaggle https://www.kaggle.com/datasets/datasnaek/chess
+3. Install dependencies:
    ```bash
    pip install pandas numpy matplotlib seaborn
    
