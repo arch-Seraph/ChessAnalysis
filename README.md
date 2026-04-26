@@ -64,8 +64,8 @@ The dataset contains metadata for real Lichess games, including player ratings, 
 ## Getting Started
 
 ```bash
-git clone https://github.com/your-username/chess-eda.git
-cd chess-eda
+git clone https://github.com/arch-Seraph/ChessAnalysis.git
+cd ChessAnalysis
 pip install pandas numpy matplotlib seaborn
 ```
 
